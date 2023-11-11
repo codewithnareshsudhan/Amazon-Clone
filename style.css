@@ -16,13 +16,13 @@
 
 /* box-1 */
 .nav-logo{
-    height: 55px;
-    width: 110px;
+    height: 30px;
+/*     width: 110px; */
 }
 
 .logo{
-    height: 55px;
-    width: auto;
+    height: 45px;
+    width: 110px;
 }
 
 .border{
